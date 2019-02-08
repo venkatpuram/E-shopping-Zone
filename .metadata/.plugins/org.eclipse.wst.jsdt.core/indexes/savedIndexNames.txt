@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\venpuram\Desktop\E Shopping Zone Services\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2371006169.index
+651565730.index
+2159446443.index
+1858771241.index
+3013074096.index
